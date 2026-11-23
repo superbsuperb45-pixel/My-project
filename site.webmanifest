@@ -1,0 +1,10 @@
+{
+  "name": "LeadRescue",
+  "short_name": "LeadRescue",
+  "description": "Lead recovery and follow-up software for small and medium businesses.",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0e1726",
+  "icons": [{ "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
